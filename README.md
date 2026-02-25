@@ -15,6 +15,10 @@ UZCP (Universal Zeta Coffee Protocol) is an open, JSON-based communication proto
 - **Extensible** — Custom fields freely added using the `x_` prefix without breaking compatibility
 - **Automation-ready** — One protocol from manual operation to fully autonomous robot roasting
 
+### Naming
+
+The "Zeta" in UZCP is inspired by the **Riemann Zeta Function** (ζ(s)) — one of the most profound functions in mathematics, known for its ability to describe an infinitely complex system in a unified way. Just as the Zeta function brings order to the seemingly chaotic distribution of prime numbers, UZCP aims to bring a single, unified protocol to the fragmented landscape of coffee roasting devices.
+
 ---
 
 ## 2. Terminology
