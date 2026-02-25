@@ -422,7 +422,7 @@ A device claiming UZCP 1.0 conformance MUST implement all MUST-level message typ
 
 UZCP is an open protocol. Proposals for new message types, commands, or extensions are welcome via the GitHub repository.
 
-- Spec Repository: [github.com/uzuuzu/uzcp](https://github.com/uzuuzu/uzcp) *(coming soon)*
+- Spec Repository: [github.com/uzuuzuhonpo/uzcp](https://github.com/uzuuzu/uzcp) *(coming soon)*
 - Issues & Discussions: open to the community
 
 ---
