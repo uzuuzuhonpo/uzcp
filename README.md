@@ -138,8 +138,9 @@ Streams real-time roasting state from the device.
 
 | Field | Type | Unit | Description |
 |-------|------|------|-------------|
-| `bt` | float | ℃ | Bean Temperature |
-| `et` | float | ℃ | Environmental (exhaust) Temperature |
+| `unit` | string | — | Temperature unit: `"celsius"` / `"fahrenheit"` / `"kelvin"`. If omitted, Celsius (℃) is assumed. |
+| `bt` | float | — | Bean Temperature |
+| `et` | float | — | Environmental (exhaust) Temperature |
 | `ror` | float | ℃/min | Rate of Rise |
 | `elapsed` | int | sec | Seconds since roast start |
 | `phase` | string | — | Current roast phase (see below) |
@@ -426,7 +427,7 @@ A device claiming UZCP 1.0 conformance MUST implement all MUST-level message typ
 
 UZCP is an open protocol. Proposals for new message types, commands, or extensions are welcome via the GitHub repository.
 
-- Spec Repository: [github.com/uzuuzuhonpo/uzcp](https://github.com/uzuuzu/uzcp) *(coming soon)*
+- Spec Repository: [github.com/uzuuzu/uzcp](https://github.com/uzuuzu/uzcp) *(coming soon)*
 - Issues & Discussions: open to the community
 
 ---
