@@ -427,10 +427,11 @@ A device claiming UZCP 1.0 conformance MUST implement all MUST-level message typ
 
 UZCP is an open protocol. Proposals for new message types, commands, or extensions are welcome via the GitHub repository.
 
-- Spec Repository: [github.com/uzuuzu/uzcp](https://github.com/uzuuzu/uzcp) *(coming soon)*
+- Spec Repository: [github.com/uzuuzuhonpo/uzcp](https://github.com/uzuuzuhonpo/uzcp) *(coming soon)*
 - Issues & Discussions: open to the community
 
 ---
 
 *UZCP 1.0.0 — Designed by Uzuuzu Coffee Roastery*
+
 *UZU ROASTER is the world's first UZCP-compatible device.*
